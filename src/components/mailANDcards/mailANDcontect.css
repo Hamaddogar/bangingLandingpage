@@ -1,0 +1,35 @@
+@media only screen and (min-width: 1500px) {
+  .button2 {
+    height: 100px;
+  }
+}
+
+@media only screen and (max-width: 1500px) {
+  .button2 {
+    height: 90px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .button2 {
+    height: 80px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .button2 {
+    height: 60px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .button2 {
+    height: 50px;
+  }
+}
+
+@media only screen and (max-width: 200px) {
+  .button2 {
+    height: 30px;
+  }
+}
